@@ -1,10 +1,10 @@
-id: 46
+id: 58
 user: eq19
-span: span-27
+span: span-39
 title: eQuantum
-baseurl: /grammar
-repository: GlobalZones/grammar
-action: GlobalZones/syntax/actions/runs/14632410811
+baseurl: /syntax
+repository: HybridModels/syntax
+action: HybridModels/parser/actions/runs/14646719909
 description: ₠Quantum Project
 
 #debug:
@@ -48,6 +48,6 @@ plugins:
   - jekyll-optional-front-matter
 
 track:
-  spin: [3, 6]
-  pinned: [maps, feed, lexer, parser, syntax, grammar, rapidjson, ventoy, magisk, duckdb, ci, templates]
+  spin: [4, 5]
+  pinned: [maps, feed, lexer, parser, syntax, grammar, falcon, webpack, wikibox, transparency, flavio, ta-lib]
   organization: [Chetabahana, FeedMapping, GlobalZones, HybridModels, JunctionTerms, KernelPatterns, MappingSystem, NeuralSystem, ObjectModules, VirtualNetworks, WeakNegative, WeakPositive, ZeroWeak]
