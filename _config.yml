@@ -1,10 +1,10 @@
-id: 64
+id: 65
 user: eq19
-span: span-45
+span: span-46
 title: eQuantum
-baseurl: /flavio
-repository: HybridModels/flavio
-action: HybridModels/transparency/actions/runs/14657153261
+baseurl: /ta-lib
+repository: HybridModels/ta-lib
+action: HybridModels/flavio/actions/runs/14981782967
 description: ₠Quantum Project
 
 #debug:
@@ -48,6 +48,6 @@ plugins:
   - jekyll-optional-front-matter
 
 track:
-  spin: [4, 11]
+  spin: [4, 12]
   pinned: [maps, feed, lexer, parser, syntax, grammar, falcon, webpack, wikibox, transparency, flavio, ta-lib]
   organization: [Chetabahana, FeedMapping, GlobalZones, HybridModels, JunctionTerms, KernelPatterns, MappingSystem, NeuralSystem, ObjectModules, VirtualNetworks, WeakNegative, WeakPositive, ZeroWeak]
