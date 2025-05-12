@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: /flavio/sitemap_index.xml
+Sitemap: /ta-lib/sitemap_index.xml
